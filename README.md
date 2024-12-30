@@ -6,8 +6,6 @@ The Note-Taking Website is a simple and efficient web application designed to he
 Features
 Create Notes: Add new notes with a title and description.
 Delete Notes: Remove unwanted notes.
-Responsive Design: Works seamlessly on desktop and mobile devices.
-
 
 How to Use
 Add a Note: Use the "Add Note" button to create a new note by entering a title and content.
